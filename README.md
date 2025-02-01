@@ -1,9 +1,9 @@
 # 👩‍💻 MY SKILL DUMP!!
 
 ## 💡 Technical Skills:
-- **Languages:** SQL, Python, R, C++, Java
-- **BI Tools:** Tableau, Power BI, Excel
-- **Cloud Services:** Google Cloud, AWS, S3, EC2
+- **Languages:** SQL, Python, R
+- **BI Tools:** Tableau, Looker, QuickSight, Excel
+- **Cloud Services:** Google Cloud, AWS, S3, Snowflake
 - **ML & Data Science:** TensorFlow, PySpark, MongoDB, Statistics, A/B Testing
 
 ## 🎯 Featured Projects
