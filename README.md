@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩‍💻 MY SKILL DUMP!!
 
-<!--
-**erolaliev/erolaliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Technical Skills:
+- **Languages:** SQL, Python, R, C++, Java
+- **BI Tools:** Tableau, Power BI, Excel
+- **Cloud Services:** Google Cloud, AWS, S3, EC2
+- **ML & Data Science:** TensorFlow, PySpark, MongoDB, Statistics, A/B Testing
 
-Here are some ideas to get you started:
+## 🎯 Featured Projects
+### 📊 Product Analytics
+- [Nike vs Adidas Product Branding Analysis](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Customer Analytics
+- [Tableau Dashboard](#)
+
+### 📈 A/B Testing - Marketing
+- [Partner Marketing A/B Testing](#)
+
+### 🎨 Data Visualizations
+- [Tableau Dashboard Collections](#)
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email@gmail.com)
