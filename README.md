@@ -25,5 +25,5 @@ I have a **proactive approach** to identifying and sourcing the right data to so
 - [Tableau Dashboard Collections](#)
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ealiev/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email@gmail.com)
